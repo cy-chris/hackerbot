@@ -97,6 +97,15 @@ break
 }
 
 
+switch(comando) {
+case 'escreva':
+escrever(``)
+break
+case 'responda':
+enviar(`oooi`)
+break
+}
+
 
 
 
